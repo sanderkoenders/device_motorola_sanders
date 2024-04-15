@@ -24,7 +24,7 @@ TARGET_INCLUDE_LIVE_WALLPAPERS := false
 ## Device identifier. This must come after all inclusions
 PRODUCT_BRAND := motorola
 PRODUCT_MANUFACTURER := motorola
-PRODUCT_NAME := aosp_sanders
+PRODUCT_NAME := lineage_sanders
 PRODUCT_DEVICE := sanders
 PRODUCT_MODEL := Moto G (5S) Plus
 
